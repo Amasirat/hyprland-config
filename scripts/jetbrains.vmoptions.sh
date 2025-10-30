@@ -1,0 +1,1 @@
+/home/amasirat/.jetbrains.vmoptions.sh
